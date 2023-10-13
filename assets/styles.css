@@ -1,3 +1,12 @@
 body {
-  background-color: peachpuff;
+  background-color: grey;
+}
+.rock {
+  color: brown;
+}
+.paper {
+  color: white;
+}
+.scissors {
+  color: slategrey;
 }
